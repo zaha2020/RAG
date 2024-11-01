@@ -1,0 +1,9 @@
+PyMuPDF
+fpdf
+faiss-cpu
+gensim 
+hazm 
+pytensor
+python-dotenv
+PyYAML
+OmegaConf
