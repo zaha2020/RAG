@@ -1,1 +1,5 @@
 FILE_PATH: ./example3.pdf
+MODEL_EMBEDD: "bert-base-multilingual-cased"
+TOKENIZER_EMBEDD: "bert-base-multilingual-cased"
+MODEL_NAME: "jtatman/orca-tau-4k-persian-alpaca-f32"
+TOKENIZER_NAME: "jtatman/orca-tau-4k-persian-alpaca-f32"
